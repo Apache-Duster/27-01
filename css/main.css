@@ -66,6 +66,10 @@
   .sleep {
   }
   .dream {
+      background-color: violet;
   }
   .repeat {
+  }
+  #story {
+      background-color: violet;
   }
